@@ -413,7 +413,7 @@ PrefabInstance:
     - target: {fileID: 11475086, guid: c0978251ff7b10d4fb954a4b56acd9f0, type: 3}
       propertyPath: m_GamePlayerPrefab
       value: 
-      objectReference: {fileID: 8373702951332546880, guid: 9070b824fdb534d939e6a27e2482e012,
+      objectReference: {fileID: 122040429506780249, guid: 3bd96884606c645d59c6ef919bc0c622,
         type: 3}
     - target: {fileID: 11475086, guid: c0978251ff7b10d4fb954a4b56acd9f0, type: 3}
       propertyPath: m_PlayScene
@@ -434,7 +434,7 @@ PrefabInstance:
     - target: {fileID: 11475086, guid: c0978251ff7b10d4fb954a4b56acd9f0, type: 3}
       propertyPath: m_SpawnPrefabs.Array.data[0]
       value: 
-      objectReference: {fileID: 8373702951332546880, guid: 9070b824fdb534d939e6a27e2482e012,
+      objectReference: {fileID: 122040429506780249, guid: 3bd96884606c645d59c6ef919bc0c622,
         type: 3}
     - target: {fileID: 11475086, guid: c0978251ff7b10d4fb954a4b56acd9f0, type: 3}
       propertyPath: prematchCountdown

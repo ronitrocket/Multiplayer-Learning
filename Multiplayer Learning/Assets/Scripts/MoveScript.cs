@@ -21,6 +21,11 @@ public class MoveScript : MonoBehaviour
 
             //Vector3 direction = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
 
+            if (Input.GetKey(KeyCode.P))
+            {
+
+            }
+
             transform.Translate(Vector3.forward * Time.deltaTime * Input.GetAxis("Vertical") * moveSpeed);
             //Moves Left and right along x Axis                               //Left/Right
             transform.Translate(Vector3.right * Time.deltaTime * Input.GetAxis("Horizontal") * moveSpeed);
